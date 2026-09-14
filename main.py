@@ -6,8 +6,9 @@ from pyscript import display
 #using underscore works
 
 fullname = 'Juan Dela Cruz' # string 
+age = 25 # integer
 
-display(f'Hi! I am {fullname} and I am {ag3_s} years old.', target="result")
+display(f'Hi! I am {fullname} and I am {age} years old.', target="result")
 
 _cool = "Cool"
 b = ["one", "two", "three"]
